@@ -51,7 +51,7 @@ const ShowcaseSection = () => {
         <div className="showcaselayout">
           <div ref={project1Ref} className="first-project-wrapper">
             <div className="image-wrapper">
-              <img src="/images/project1.png" alt="Ryde App Interface" />
+              <img src="images/project1.png" alt="Ryde App Interface" />
             </div>
             <div className="text-content">
               <h2>
@@ -82,7 +82,7 @@ const ShowcaseSection = () => {
 
             <div className="project" ref={project3Ref}>
               <div className="image-wrapper bg-[#FFE7EB]">
-                <img src="/images/project3.png" alt="YC Directory App" />
+                <img src="images/project3.png" alt="YC Directory App" />
               </div>
               <h2>
                 An Ecommerce responsive website a distance selling solution in
