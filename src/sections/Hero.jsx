@@ -65,7 +65,7 @@ function Hero() {
             </p>
             <Button
               className="md:w-80 md:h-16 w-60 h-12"
-              id="button"
+              id="work"
               text="See my work"
             />
           </div>
