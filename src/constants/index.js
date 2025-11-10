@@ -312,7 +312,7 @@ const socialImgs = [
     {
         name: "fb",
         url: "https://www.facebook.com/",
-        imgPath: "/images/fb.png",
+        imgPath: "public/images/fb.png",
     },
     {
         name: "Github",
@@ -327,12 +327,12 @@ const socialImgs = [
 ];
 const stackIcons = [
     // Frontend
-    { name: "JavaScript", imgPath: "/images/logos/js.png" },
-    { name: "TypeScript", imgPath: "/images/logos/typescript.png" },
-    { name: "React.js", imgPath: "/images/logos/react.png" },
-    { name: "Redux", imgPath: "/images/logos/redux.svg" },
-    { name: "Next.js", imgPath: "/images/logos/next-js-seeklogo.svg" },
-    { name: "Angular", imgPath: "/images/logos/angular.svg" },
+    { name: "JavaScript", imgPath: "public/images/logos/js.png" },
+    { name: "TypeScript", imgPath: "public/images/logos/typescript.png" },
+    { name: "React.js", imgPath: "public/images/logos/react.png" },
+    { name: "Redux", imgPath: "public/images/logos/redux.svg" },
+    { name: "Next.js", imgPath: "public/images/logos/next-js-seeklogo.svg" },
+    { name: "Angular", imgPath: "public/images/logos/angular.svg" },
     { name: "Vue.js", imgPath: "/images/logos/vuejs.png" },
     { name: "React Native", imgPath: "/images/logos/react.png" },
     // { name: "HTML5", imgPath: "/images/logos/html5.svg" },
