@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss()
   ],
-  base: "/"
+  base: "/portfolio-malek/"
 })
 // portfolio-malek/
