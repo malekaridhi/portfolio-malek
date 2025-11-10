@@ -7,6 +7,11 @@ export default defineConfig({
   plugins: [react(),
   tailwindcss()
   ],
-  base: "/portfolio-malek/"
+  base: "/portfolio-malek/",
+  build: {
+    outDir: 'dist',
+    emptyOutDir: true,
+    assetsDir: 'assets'
+  }
 })
 // portfolio-malek/
